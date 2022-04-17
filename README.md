@@ -4,10 +4,6 @@
 - 🔨 » Client relation agent at [Brocloud](https://brocloud.fr/)
 - 🗂️ » I would like to be a data center technician.
 
-
-## 📬 Contact me:
-- 📧 » Email: [Click here](mailto:weyzox.contact@gmail.com) (`toax.contact@gmail.com`)
-
 ## 🌊 My social networks :
 - 🤖 » Discord: [Click here](https://discord.com/users/750793433257476146) (`_Toax 🥀#9124`)
 - 🐤 » Twitter : [Click here](https://twitter.com/_Toax) (`_Weyzox_`)
