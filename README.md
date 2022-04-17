@@ -6,7 +6,7 @@
 
 ## 🌊 My social networks :
 - 🤖 » Discord: [Click here](https://discord.com/users/750793433257476146) (`_Toax 🥀#9124`)
-- 🐤 » Twitter : [Click here](https://twitter.com/_Toax) (`_Weyzox_`)
+- 🐤 » Twitter : [Click here](https://twitter.com/_Toax) (`_Toax_`)
 - ☄️ » TikTok: [Click here](https://tiktok.com/@thib.dlntt) (`thib.dlntt`)
 - 🎧 » SoundCloud: [Click here](https://soundcloud.com/kyely-beatz) (`kyealy-beatz`)
 
