@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello ! 👋  I'm Toax
 
-<!--
-**Toaxx/Toaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚗️ » French young developer.
+- 🔨 » Client relation agent at [Brocloud](https://brocloud.fr/)
+- 🗂️ » I would like to be a data center technician.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact me:
+- 📧 » Email: [Click here](mailto:weyzox.contact@gmail.com) (`toax.contact@gmail.com`)
+
+## 🌊 My social networks :
+- 🤖 » Discord: [Click here](https://discord.com/users/750793433257476146) (`_Toax 🥀#9124`)
+- 🐤 » Twitter : [Click here](https://twitter.com/_Toax) (`_Weyzox_`)
+- ☄️ » TikTok: [Click here](https://tiktok.com/@thib.dlntt) (`thib.dlntt`)
+- 🎧 » SoundCloud: [Click here](https://soundcloud.com/kyely-beatz) (`kyealy-beatz`)
+
+## 🌟 Number of visits:
+
+<p>&nbsp;</p>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Weyzox/count.svg" />
+</p>
+
