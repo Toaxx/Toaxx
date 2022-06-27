@@ -2,7 +2,6 @@
 
 - ⚗️ » French young developer.
 - 🔨 » Client relation agent at [Brocloud](https://brocloud.fr/)
-- 🗂️ » I would like to be a data center technician.
 
 ## 🌊 My social networks :
 - 🤖 » Discord: [Click here](https://discord.com/users/750793433257476146) (`_Toax 🥀#9124`)
