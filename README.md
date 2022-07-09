@@ -2,7 +2,7 @@
 
 - ⚗️ » French young developer.
 - 🔨 » Client relation agent at [Brocloud](https://brocloud.fr/)
-- 🎵 » Later? I would like to be a sound engineer
+- 🎵 » Later? I would like to be a sound engineer.
 
 ## 🌊 My social networks :
 - 🤖 » Discord: [Click here](https://discord.com/users/750793433257476146) (`_Toax 🥀#9124`)
