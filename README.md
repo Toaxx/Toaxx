@@ -10,7 +10,7 @@
 - ☄️ » TikTok: [Click here](https://tiktok.com/@thib.dlntt) (`thib.dlntt`) (+10K)
 - 🎧 » SoundCloud: [Click here](https://soundcloud.com/kyely-beatz) (`kyealy-beatz`)
 
-## 🌟 Number of visits:
+## 🌟 Number of visits :
 
 <p>&nbsp;</p>
 
