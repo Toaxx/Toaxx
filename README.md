@@ -1,5 +1,7 @@
 # Hello ! 👋  I'm Toax
 
+https://cdn.discordapp.com/attachments/751764167408615484/991037142690041876/zoro-one-piece.gif
+
 - ⚗️ » French young developer.
 - 🔨 » Client relation agent at [Brocloud](https://brocloud.fr/)
 - 🎵 » Later? I would like to be a sound engineer.
