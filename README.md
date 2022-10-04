@@ -1,9 +1,9 @@
 # Hello ! 👋  I'm Toax
 
 - ⚗️ » French young developer.
-- 🔨 » Client relation agent at [Brocloud](https://brocloud.fr/)
-- 🧡 » Moderator of the official [WeWard Discord](https://discord.gg/dcad3hsh6X)
-- 🤓 » Later? I would like to be a web designer or a data center technician
+- 🔨 » Client relation agent at [Brocloud](https://brocloud.fr/).
+- 🧡 » Moderator of the official [WeWard Discord](https://discord.gg/dcad3hsh6X).
+- 🤓 » Later? I would like to be a web designer or a data center technician.
 
 ## 🌊 My social networks :
 - 🤖 » Discord: [Click here](https://discord.com/users/750793433257476146) (`_Toax 🥀#9124`)
