@@ -1,7 +1,6 @@
 # Hello ! 👋  I'm Toax
 
 - ⚗️ » French young developer.
-- 🔨 » Network Intervention Agent at [Brocloud](https://brocloud.fr/).
 - 🤓 » Later? I would like to be a web designer.
 
 ## 🌊 My social networks :
